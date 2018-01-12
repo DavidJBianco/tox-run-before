@@ -5,12 +5,12 @@ Tox Run Before Plugin
 Installation
 ------------
 
-#. Add `tox-run-before` to your Python path.
+#. Add ``tox-run-before`` to your Python path.
 
 Usage
 -----
 
-A new `run_before` declaration is available under `testenv` sections.
+A new ``run_before`` declaration is available under ``testenv`` sections.
 Example::
 
     [testenv]
